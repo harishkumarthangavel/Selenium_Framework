@@ -1,0 +1,4 @@
+{
+  "test_pytest_example.py::test_failure": true,
+  "test_selenium.py::test_login": true
+}

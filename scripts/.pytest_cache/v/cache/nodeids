@@ -1,0 +1,13 @@
+[
+  "test_add_to_cart.py::test_add_to_cart",
+  "test_add_to_cart.py::test_cart_functionality",
+  "test_add_to_cart.py::test_checkout",
+  "test_add_to_cart.py::test_login",
+  "test_add_to_cart.py::test_product_search",
+  "test_factorial.py::test_factorial_functionality",
+  "test_factorial.py::test_factorial_std_lib",
+  "test_factorial.py::test_negative_input",
+  "test_pytest_example.py::test_failure",
+  "test_pytest_example.py::test_success",
+  "test_selenium.py::test_login"
+]

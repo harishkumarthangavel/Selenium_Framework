@@ -1,0 +1,9 @@
+2023-05-20 09:19:42,338 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-20 09:21:33,925 - INFO - Assertion passed, "This is a link" contains "link".
+2023-05-20 09:21:34,042 - ERROR - : Assertion failed, "This is a link" does not contain "topgrep".
+2023-05-20 09:21:34,044 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-20 09:31:26,309 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 08:17:53,232 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 08:24:30,984 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 08:30:49,194 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-23 08:32:38,036 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)

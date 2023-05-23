@@ -1,0 +1,6 @@
+txt_box_username =  '//*[@id="user-name"]'
+txt_box_password = '//*[@id="password"]'
+btn_login = '//*[@id="login-button"]'
+lnk_backpack = '//div[contains(text(), "Backpack")]'
+btn_add_to_cart = '//*[@id="add-to-cart-sauce-labs-backpack"]'
+btn_remove = '//*[@id="remove-sauce-labs-backpack"]'
